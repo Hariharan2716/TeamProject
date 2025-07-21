@@ -1,0 +1,10 @@
+Prompt 3:
+
+Prompt:
+"How can I use CSS Grid to make product cards responsive and wrap them neatly for mobile devices?"
+
+AI Response Summary:
+Use display: grid with grid-template-colums: repeate(auto-fit, minmax(...)).
+
+Reflection:
+Grid implementation was spot-on.  Mobile-friendliness worked without media queries.
