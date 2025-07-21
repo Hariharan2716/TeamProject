@@ -1,0 +1,11 @@
+Prompt:
+“How can I add a smooth zoom effect when hovering over product images?”
+
+AI Response Summary:
+The AI suggested targeting product images with a CSS transform scale inside a hover state. It recommended using transform: scale(1.1) with a transition to ensure the zoom was smooth and visually appealing. Also advised adding border-radius and responsiveness.
+
+My Implementation:
+I applied the transform scale to the product-card img selector with a transition for smooth animation. On hover, the image zoomed in subtly, giving each product a more interactive feel. It was easy to implement and added a polished touch.
+
+Reflection:
+This was a simple visual upgrade that made a big difference in user experience. It taught me how transitions and transforms can be combined for engaging UI effects. I also learned the importance of subtlety—going too far with scale made it look jarring. This helped me better understand hover effects and transitions in real-world layouts.

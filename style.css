@@ -57,3 +57,18 @@ button:hover {
 .product-card:hover {
   transform: scale(1.05);
 }
+
+/* Prompt 5 */
+
+.product-card img {
+  width: 100%;
+  border-radius: 8px;
+  transition: transform 0.3s ease;
+}
+
+.product-card:hover img {
+  transform: scale(1.1);
+}
+
+
+
