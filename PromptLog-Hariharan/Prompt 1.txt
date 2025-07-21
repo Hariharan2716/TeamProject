@@ -1,0 +1,11 @@
+Prompt 1:
+
+Prompt: " How can I vertically and horizontally center all content inside a hero section using modern Flexbox in CSS?"
+
+AI Response Summary:
+Use display: flex, justify-content: center, align-items: center, and set a defined height.
+
+Implementation Result (In style.css): 
+
+Reflection:
+Simple and effective. AI suggested Flexbox properly.  Adjusted height manually to suit the design.
