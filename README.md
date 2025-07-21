@@ -6,6 +6,6 @@ As a Team we created this with help of AI-tools which helped in doing more work 
 Team members use prompt-based learning to improve both styling skills and prompt engineering.
 
 👥 Team Members
-  Hariharan
-  Pavankumar
+  Hariharan,
+  Pavankumar,
   Shashank
