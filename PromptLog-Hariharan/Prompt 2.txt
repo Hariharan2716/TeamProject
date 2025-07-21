@@ -1,0 +1,10 @@
+Prompt 2:
+
+Prompt:
+"Create modern, soft button hover effects using box-shadow and CSS transitions."
+
+AI Response Summary:
+Use transition, box-shadow, and slightly darken the button on hover.
+
+Reflection: 
+This gave a clean, modern button feel.  AI's reply worked directly, no major tweaks needed.
